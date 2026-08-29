@@ -1,0 +1,13 @@
+account_id,company_name,company_domain,company_type,headquarters_country,employee_range,input_source,notes
+ACC-001,Apollo,apollo.io,B2B SaaS / GTM intelligence,United States,501-1000,official_website,"Public B2B software platform focused on data intelligence and sales engagement."
+  ACC-002,Calendly,calendly.com,B2B SaaS / Scheduling,United States,501-1000,official_website_plus_public_profile,"Public software platform focused on meeting and scheduling automation."
+  ACC-003,Pendo,pendo.io,B2B SaaS / Product Experience,United States,501-1000,official_website,"Public software platform focused on product experience and software adoption."
+  ACC-004,CaptivateIQ,captivateiq.com,B2B SaaS / Sales Performance,United States,201-500,official_website_plus_public_profile,"Public software platform focused on sales planning and incentive compensation."
+  ACC-005,Gainsight,gainsight.com,B2B SaaS / Customer Success,United States,1001+,official_website,"Public software company focused on customer success, product experience and related growth solutions."
+  ACC-006,Culture Amp,cultureamp.com,B2B SaaS / HR Technology,Australia,501-1000,official_website_plus_public_profile,"Public software platform focused on employee experience and workplace culture."
+  ACC-007,Vanta,vanta.com,B2B SaaS / Trust Management,United States,201-500,official_website_plus_public_profile,"Public software platform focused on security and trust management automation."
+  ACC-008,Mixpanel,mixpanel.com,B2B SaaS / Product Analytics,United States,201-500,official_website_plus_public_profile,"Public software platform focused on product analytics."
+  ACC-009,Linear,linear.app,B2B SaaS / Product Development,United States,51-200,official_website_plus_public_profile,"Public software platform focused on product development and issue tracking."
+  ACC-010,Aircall,aircall.io,B2B SaaS / Cloud Communications,France,501-1000,official_website,"Public cloud communications software platform serving business teams."
+  ACC-011,Typeform,typeform.com,B2B SaaS / Forms and Data Collection,Spain,201-500,official_website,"Public software platform for forms, surveys and business data collection."
+  ACC-012,Miro,miro.com,B2B SaaS / Collaboration,United States,1001+,official_website,"Public visual workspace and collaboration platform for distributed teams."
